@@ -6,6 +6,7 @@ server/node_modules/
 client/.env
 server/.env
 
+
 # Optional (recommended)
 .env
 node_modules/
